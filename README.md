@@ -1,4 +1,4 @@
-# 🎮 Game Sales Analytics Dashboard (Power BI)
+#  Game Sales Analytics 
 
 ##  Overview
 This project presents an interactive Power BI dashboard analyzing video game sales data for **16,598 games** across multiple platforms, genres, and regions.  
