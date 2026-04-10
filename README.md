@@ -1,35 +1,94 @@
-# GameSales_PowerBI_Insights_Project!
+# 🎮 Game Sales Analytics Dashboard (Power BI)
 
-Power BI project analyzing video game sales data (16,598 games) to uncover global trends, regional preferences, and top performers.
+## 📌 Overview
+This project presents an interactive Power BI dashboard analyzing video game sales data for **16,598 games** across multiple platforms, genres, and regions.  
 
-Overview
-This project uses Power BI to analyze and visualize video game sales data, covering 16,598 games from various regions and genres. It provides insights into sales trends, genre popularity, and top-performing games globally.
+The goal is to uncover **global trends, regional preferences, and top-performing games** to support data-driven insights in the gaming industry.
 
-Dataset
-Rank: Game ranking
-Name: Game title
-Platform: Gaming platform (e.g., PS4, Xbox One)
-Year: Release year (some missing values)
-Genre: Game genre (e.g., Action, Sports)
-Publisher: Game publisher (some missing values)
-NA_Sales: Sales in North America (millions)
-EU_Sales: Sales in Europe (millions)
-JP_Sales: Sales in Japan (millions)
-Other_Sales: Sales in other regions (millions)
-Global_Sales: Total global sales (millions)
-Objectives
-Visualize top-selling games globally
-Analyze genre popularity by region
-Track annual sales trends
-Compare regional sales by genre and platform
-Key Insights
-Top Seller: Wii Sports is the top-selling game.
-Popular Genres: Action leads globally, with regional preferences varying.
-Sales Trends: Notable rise in global sales from 2005-2011, peaking around 2008-2010.
-Tools & Technologies
-Power BI: Dashboard creation and data visualization
-Explore the interactive dashboard to gain insights into the gaming industry trends!
-Conclusion
+---
 
-This project showcases the power of data visualization in uncovering actionable insights from large datasets. Through the Power BI dashboard, users can explore trends in the gaming industry, such as top-selling genres, annual sales performance, and regional preferences. The interactive nature of the dashboard allows for deep dives into specific genres, games, and time periods, making it a valuable tool for business decisions and market analysis.
+## 🎯 Objectives
+- Identify top-selling games globally  
+- Analyze genre popularity across different regions  
+- Track yearly sales trends and peak periods  
+- Compare platform performance and regional contributions  
 
+---
+
+## 📊 Dataset Description
+The dataset includes the following key fields:
+
+- **Rank** – Overall ranking of the game  
+- **Name** – Game title  
+- **Platform** – Gaming platform (e.g., PS4, Xbox One)  
+- **Year** – Release year *(contains some missing values)*  
+- **Genre** – Game category (e.g., Action, Sports)  
+- **Publisher** – Game publisher *(contains some missing values)*  
+- **NA_Sales** – Sales in North America (millions)  
+- **EU_Sales** – Sales in Europe (millions)  
+- **JP_Sales** – Sales in Japan (millions)  
+- **Other_Sales** – Sales in other regions (millions)  
+- **Global_Sales** – Total worldwide sales (millions)  
+
+---
+
+## 🛠 Tools & Technologies
+- **Power BI** – Data visualization & dashboard development  
+- **Power Query** – Data cleaning and transformation  
+- **DAX** – Measures and calculations  
+
+---
+
+## 📈 Dashboard Features
+- 📊 Global sales overview  
+- 🌍 Region-wise sales comparison (NA, EU, JP, Others)  
+- 🎮 Genre and platform performance analysis  
+- 📅 Year-wise sales trends  
+- 🔍 Interactive filters and slicers for deep analysis  
+
+---
+
+## 🔍 Key Insights
+- 🎯 **Top-Selling Game:** *Wii Sports* dominates global sales  
+- 🎮 **Leading Genre:** Action is the most popular globally  
+- 🌍 **Regional Trends:**  
+  - North America contributes the highest sales  
+  - Japan shows distinct genre preferences compared to other regions  
+- 📈 **Sales Peak:** Global sales significantly increased between **2005–2011**, peaking around **2008–2010**  
+
+---
+
+## 🧹 Data Preparation
+- Handled missing values in *Year* and *Publisher* columns  
+- Standardized column formats for consistency  
+- Validated data types for accurate analysis  
+
+---
+
+## 🚀 How to Use
+1. Download the `.pbix` file from the repository  
+2. Open it using **Power BI Desktop**  
+3. Use slicers and filters to explore insights interactively  
+
+---
+
+## 💡 Business Value
+This dashboard enables:
+- Better understanding of **market trends in gaming industry**  
+- Identification of **high-performing genres and platforms**  
+- Insights into **regional demand patterns**  
+- Data-driven decision-making for publishers and analysts  
+
+---
+
+## 📌 Conclusion
+This project demonstrates how data visualization can transform raw data into meaningful insights.  
+The interactive dashboard allows users to explore **sales trends, genre performance, and regional behavior**, making it a powerful tool for **market analysis and strategic planning**.
+
+---
+
+## 👤 Author
+**Umair Nawaz**  
+Data Analyst | SQL | Power BI | Python  
+
+---
